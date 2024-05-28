@@ -10,7 +10,7 @@
     },
     {
       "groupId": "org.lwjgl.lwjgl",
-      "artifactId": "lwjgl-util",
+      "artifactId": "lwjgl_util",
       "version": "2.9.3",
       "checksum": "751f06b62424da056954c67288fd5c494431e350" // checksum of lwjgl-glfw.jar
     }
