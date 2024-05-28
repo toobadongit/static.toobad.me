@@ -5,17 +5,17 @@
     {
       "groupId": "org.lwjgl.lwjgl",
       "artifactId": "lwjgl",
-      "version": "2.9.3",
+      "version": "2.9.3"
     },
     {
       "groupId": "org.lwjgl.lwjgl",
       "artifactId": "lwjgl_util",
-      "version": "2.9.3",
+      "version": "2.9.3"
     },
     {
       "groupId": "com.google.code.gson",
       "artifactId": "gson",
-      "version": "2.11.0",
+      "version": "2.11.0"
     }
   ],
   "natives": {
@@ -23,21 +23,21 @@
       {
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
-        "version": "2.9.3",
+        "version": "2.9.3"
       }
     ],
     "linux": [
       {
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
-        "version": "2.9.3",
+        "version": "2.9.3"
       }
     ],
     "mac": [
       {
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
-        "version": "2.9.3",
+        "version": "2.9.3"
       }
     ]
   }
