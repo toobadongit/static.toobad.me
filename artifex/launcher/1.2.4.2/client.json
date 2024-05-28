@@ -22,21 +22,21 @@
     "windows": [
       {
         "groupId": "org.lwjgl.lwjgl",
-        "artifactId": "lwjgl-platform",
+        "artifactId": "lwjgl-natives-windows",
         "version": "2.9.3"
       }
     ],
     "linux": [
       {
         "groupId": "org.lwjgl.lwjgl",
-        "artifactId": "lwjgl-platform",
+        "artifactId": "lwjgl-natives-linux",
         "version": "2.9.3"
       }
     ],
     "mac": [
       {
         "groupId": "org.lwjgl.lwjgl",
-        "artifactId": "lwjgl-platform",
+        "artifactId": "lwjgl-natives-osx",
         "version": "2.9.3"
       }
     ]
