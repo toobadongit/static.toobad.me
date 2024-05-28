@@ -16,7 +16,31 @@
       "groupId": "com.google.code.gson",
       "artifactId": "gson",
       "version": "2.11.0"
-    }
+    },
+    {
+      "groupId": "me.toobad.soundlib",
+      "artifactId": "ibxm",
+      "version": "a51",
+      "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/soundapi/ibxm-a51.jar"
+    },
+    {
+      "groupId": "me.toobad.soundlib",
+      "artifactId": "j-ogg-all",
+      "version": "1.0.0",
+      "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/soundapi/j-ogg-all-1.0.0.jar"
+    },
+    {
+      "groupId": "me.toobad.soundlib",
+      "artifactId": "jorbis",
+      "version": "0.0.18",
+      "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/soundapi/jorbis-0.0.18.jar"
+    },
+    {
+      "groupId": "me.toobad.soundlib",
+      "artifactId": "jspeex",
+      "version": "1.0.0",
+      "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/soundapi/jspeex.jar"
+    },
   ],
   "natives": {
     "windows": [
