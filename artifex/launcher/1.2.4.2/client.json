@@ -1,5 +1,6 @@
 {
   "version": "1.2.4.2",
+  "main": "me.toobad.lavendercraft.InitGame",
   "checksum": "4d38797f4c1f0be42d421413f6dc39270a68030f", // checksum of the client.jar
   "libraries": [
     {
