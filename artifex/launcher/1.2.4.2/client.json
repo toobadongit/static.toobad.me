@@ -6,13 +6,16 @@
       "groupId": "org.lwjgl.lwjgl",
       "artifactId": "lwjgl",
       "version": "2.9.3",
-      "checksum": "3df168ac74e4a8c96562cdff24ad352e255bf89c" // checksum of lwjgl.jar
     },
     {
       "groupId": "org.lwjgl.lwjgl",
       "artifactId": "lwjgl_util",
       "version": "2.9.3",
-      "checksum": "751f06b62424da056954c67288fd5c494431e350" // checksum of lwjgl-glfw.jar
+    },
+    {
+      "groupId": "com.google.code.gson",
+      "artifactId": "gson",
+      "version": "2.11.0",
     }
   ],
   "natives": {
@@ -21,7 +24,6 @@
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
         "version": "2.9.3",
-        "checksum": "fbc2afb3e288578e9942578decb6291a490549a0ar" // checksum of lwjgl-platform-windows.jar
       }
     ],
     "linux": [
@@ -29,7 +31,6 @@
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
         "version": "2.9.3",
-        "checksum": "b1eafe80093381c56415731e1d64279e6140bcd0" // checksum of lwjgl-platform-linux.jar
       }
     ],
     "mac": [
@@ -37,7 +38,6 @@
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
         "version": "2.9.3",
-        "checksum": "6686cf6ddaa20b4290aa6599a09bc0d17369be05" // checksum of lwjgl-platform-macos.jar
       }
     ]
   }
