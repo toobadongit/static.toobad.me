@@ -46,6 +46,13 @@
       "version": "1.0.0",
       "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/soundapi/jspeex.jar",
       "checksum": "5fd8184cfea4c5aa4e3c14bb3d21fd83539d6f47"
+    },
+    {
+      "groupId": "net.arikia.dev",
+      "artifactId": "drpc",
+      "version": "1.0.0",
+      "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/discord/discord-rpc.jar",
+      "checksum": "0fc624b3f13255c36ab7dfe4ec4bc50b8d628361"
     }
   ],
   "natives": {
