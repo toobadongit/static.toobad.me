@@ -62,12 +62,23 @@
         "version": "2.9.3"
       }
     ],
-    "mac": [
-      {
+    "mac": {
+      "default": [
+        {
         "groupId": "org.lwjgl.lwjgl",
         "artifactId": "lwjgl-platform",
         "version": "2.9.3"
-      }
-    ]
+        }
+      ],
+      "arm64": [
+        {
+        "groupId": "org.lwjgl.lwjgl",
+        "artifactId": "lwjgl-platform",
+        "version": "2.9.3",
+        "url": "https://github.com/artifexorg/lavendercraft/raw/main/lib/lwjgl/lwjgl-platform-2.9.3-natives-osx.jar",
+        "checksum": "d0ff4e92a111c2a56d0a52cee064a7654b46a970"
+        }
+      ]
+    }
   }
 }
