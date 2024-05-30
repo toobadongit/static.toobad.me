@@ -3,12 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News</title>
+    <title>Lavendercraft</title>
     <style>
+        @font-face {
+            font-family: 'Minecraftia';
+            src: url('res/Minecraftia.ttf') format('truetype');
+        }
+
         body {
             background-image: url('res/dirt.png'); /* Minecraft dirt block texture */
             background-repeat: repeat;
-            font-family: Arial, sans-serif;
+            font-family: 'Minecraftia', Arial, sans-serif;
             color: white;
             margin: 0;
             padding: 0;
@@ -16,7 +21,6 @@
 
         .container {
             width: 100%;
-            margin: 0 auto;
             padding: 20px;
             background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -24,7 +28,7 @@
 
         h1 {
             text-align: center;
-            font-size: 36px;
+            font-size: 32px;
             margin-bottom: 20px;
         }
 
@@ -34,23 +38,35 @@
         }
 
         .version {
-            font-size: 24px;
+            font-size: 20px;
             margin-bottom: 10px;
         }
 
         .changes {
-            margin-left: 20px;
+            font-size: 16px;
+            margin-left: 10px;
+        }
+
+        ul {
+            list-style-type: none; /* Remove default bullets */
+            padding: 0;
+        }
+
+        ul li::before {
+            content: '*'; /* Add asterisk before each list item */
+            margin-right: 10px; /* Space between asterisk and text */
+            color: white; /* Color of the asterisk */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>News</h1>
+        <h1>Lavendercraft</h1>
         <div class="news-item">
-            <div class="version">- Version 1.0.0 -</div>
+            <div class="version">- Welcome! -</div>
             <div class="changes">
                 <ul>
-                    <li>Added fixes</li>
+                    <li>This is the first entry for the launcher.</li>
                 </ul>
             </div>
         </div>
