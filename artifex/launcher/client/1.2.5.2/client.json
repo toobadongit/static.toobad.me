@@ -2,7 +2,7 @@
   "version": "1.2.5.2",
   "clean_install": "false",
   "main": "me.toobad.lavendercraft.InitGame",
-  "checksum": "b2ac8cbb5773127c26f502cc56dc3bd11aa8453d", // client.jar
+  "checksum": "bf679e04b460880d7489ec2480fb45b26a730c3a", // client.jar
   "libraries": [
     {
       "groupId": "org.lwjgl.lwjgl",
