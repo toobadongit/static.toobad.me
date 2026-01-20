@@ -1,0 +1,21 @@
+Copyright (c) 2026 Toobad
+
+All rights reserved.
+
+This modpack, including but not limited to its configuration files, scripts,
+structure, branding, and distribution format, is provided for personal use only.
+
+You may:
+- Download and use this modpack for personal, non-commercial gameplay.
+
+You may NOT:
+- Sell, sublicense, or monetize this modpack or any derivative of it.
+- Redistribute, reupload, mirror, or share this modpack in whole or in part.
+- Modify and redistribute this modpack without explicit written permission.
+- Include this modpack in any launcher, installer, or third-party distribution.
+
+All individual mods included in this modpack are the property of their respective
+authors and are subject to their own licenses. This license applies only to the
+modpack as a collective work and its original content.
+
+Permission requests may be directed to: toobad@toobad.me
